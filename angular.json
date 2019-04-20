@@ -37,7 +37,9 @@
             ],
             "exclude": [
               "**/node_modules/**"
-            ]
+            ],
+            "typeCheck": true,
+            "format": "codeFrame"
           }
         }
       }
@@ -152,7 +154,9 @@
             ],
             "exclude": [
               "**/node_modules/**"
-            ]
+            ],
+            "typeCheck": true,
+            "format": "codeFrame"
           }
         }
       }
