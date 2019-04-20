@@ -179,7 +179,9 @@
             "tsConfig": "projects/demo-e2e/tsconfig.e2e.json",
             "exclude": [
               "**/node_modules/**"
-            ]
+            ],
+            "typeCheck": true,
+            "format": "codeFrame"
           }
         }
       }
