@@ -17,6 +17,11 @@
       "es2017",
       "dom"
     ],
+    "types": [
+      "jasmine",
+      "jasminewd2",
+      "node"
+    ],
     "paths": {
       "ngx-logger": [
         "dist/ngx-logger"
